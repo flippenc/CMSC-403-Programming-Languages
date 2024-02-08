@@ -1,0 +1,5 @@
+I used the rectpack library for this project
+This library can be installed via pip with:
+pip install rectpack
+The github for this library can be found at:
+https://github.com/secnot/rectpack
